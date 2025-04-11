@@ -16,6 +16,7 @@ declare module 'vue' {
     IonAlert: typeof import('@ionic/vue')['IonAlert']
     IonButton: typeof import('@ionic/vue')['IonButton']
     IonHeader: typeof import('@ionic/vue')['IonHeader']
+    IonInput: typeof import('@ionic/vue')['IonInput']
     IonTitle: typeof import('@ionic/vue')['IonTitle']
     IonToolbar: typeof import('@ionic/vue')['IonToolbar']
     KepalaView: typeof import('./src/components/KepalaView.vue')['default']

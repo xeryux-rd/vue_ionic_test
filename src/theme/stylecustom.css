@@ -18,3 +18,17 @@ ion-content {
     flex-direction: column;
     margin-top: 200px;
 }
+.container-content-alert{
+    flex-direction: column;
+    text-align: center;
+    align-items: center;
+    display: flex;
+    color: aliceblue;
+    gap: 10px;
+    margin-left: 25%;
+    background-color: rgba(0, 255, 136, 0.473);
+    border-radius: 10px;
+    width: 55%;
+    padding-left: 30px;
+    
+}
